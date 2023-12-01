@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-I am a french programmer currently training to become a full-stack web developer.
-I decided to learn simultaneously Data Science, specializing in Deep Learning applied to Trading. 
-Originally trained as an industrial engineer, I decided to switch to the finance world.
-
-- 🔭 Working on frontend web projects using React/Redux
-- 🌱 Learning AI for Trading
-
-
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olivieryatrides/)
 
