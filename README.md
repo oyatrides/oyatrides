@@ -8,7 +8,6 @@
 <br>
 <br>
 ## Expertise
-<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-424F66?style=for-the-badge&logo=amazonaws&logoColor=orange
-" />
+<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-424F66?style=for-the-badge&logo=amazonaws&logoColor=orange" />
 <br>
 <br>
